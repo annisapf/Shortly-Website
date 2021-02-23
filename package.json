@@ -1,0 +1,25 @@
+{
+  "name": "shortly-web",
+  "version": "1.0.0",
+  "description": "URL Shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annisapf/Shortly-Website.git"
+  },
+  "author": "Annisa Purbandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annisapf/Shortly-Website/issues"
+  },
+  "homepage": "https://github.com/annisapf/Shortly-Website#readme",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17",
+    "valid-url": "^1.0.9"
+  }
+}
